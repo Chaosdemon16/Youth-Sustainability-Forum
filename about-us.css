@@ -1,0 +1,67 @@
+/* About Us Page Styles */
+#about {
+  background-color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+#about h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+#about p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+#team {
+  background-color: #f4f4f4;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+#team h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.team-member {
+  display: inline-block;
+  margin: 20px;
+  text-align: center;
+}
+
+.team-member img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.team-member h3 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.team-member p {
+  margin: 5px 0;
+  font-size: 1rem;
+}
+
+#our-story {
+  background-color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+#our-story h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+#our-story p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
